@@ -1,0 +1,34 @@
+body{
+    background-image: url(backgroundimage2.jpg);
+    background-size: cover;
+}
+
+
+h1, p{
+    color: #AA4139;
+    text-align: center;
+    cursor: pointer;
+    border: 5px solid rgba(255, 176, 170, 0.5);
+}
+
+
+p{
+    color: black;
+    
+}
+
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+
+
+
+.webpack{
+    border: 5px dashed green;
+    color: white;
+}
+
+
+
